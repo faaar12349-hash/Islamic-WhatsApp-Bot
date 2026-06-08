@@ -4,20 +4,20 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = "2126xxxxxxxx" // هنا أضف رقمك
+global.botnumber = "201149738893" // هنا أضف رقمك
 
 global.owner = [
-  ['2126xxxxxxxx', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
+  ['201149738893', '☪ ISLAMIC-WHATSAPP-BOT ☪', false]
 ];
 
-global.suittag = ['2126xxxxxxxx'];
-global.prems = ['2126xxxxxxxx'];
+global.suittag = ['201149738893'];
+global.prems = ['201149738893'];
 
 
-global.packname = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚'
-global.author = '𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚 ♛'
-global.wm = 'MidSoune'
-global.igfg = '♛ 𝙈𝙞𝙙𝙨𝙤𝙪𝙣𝙚 ♛'
+global.packname = '♛ ابو سند'
+global.author = ' ابو سند ♛'
+global.wm = 'ابو سند'
+global.igfg = '♛ ابو سند  ♛'
 global.wait = '*⠿⠶ إنتظر ⠶⠿*'
 global.eror = '*خطأ في جلب البيانات*'
 global.sitfe = 'ᴡᴡᴡ.ᴛᴇᴄʜsᴏᴜɴᴇ.ᴄᴏᴍ'
